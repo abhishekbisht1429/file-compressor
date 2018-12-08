@@ -7,4 +7,4 @@
   - [output-file-name] refers to the file which will store the output of the operation
   - [mode]
     - 1 - Compress
-    - 2 - Decompress
+    - 0 - Decompress
